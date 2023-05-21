@@ -1,0 +1,170 @@
+body{
+    background-color: whitesmoke;
+    margin: 0%;
+    font-family: sans-serif;
+    
+}
+
+#navbar {
+    background-color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.testo_home {
+    text-align: center;
+
+}
+
+.testo_home h1{
+    text-align: center;
+    font-size:30px ;
+
+}
+
+.testo_home h2 {
+    font-size: 10px;
+    margin-top: 20px;
+    height: 30px;
+    width: auto;
+    text-align: center;
+
+}
+
+.nav_link {
+    
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    
+}
+
+.nav_link li{
+    text-align: center;
+    margin: 100px;
+    margin-left: 190px;
+    margin-right: 200px;
+    margin-top: -100px;
+    font-size: 15px;
+   
+}
+
+
+
+.paragrafo {
+    margin-top: 10px;
+    margin-left: 40px;
+    text-align: center;
+   text-decoration: none;   
+
+}
+
+.text {
+   margin-top: 50px;
+    text-align: center;
+    font-style: italic;
+    margin-left: 40px;
+}
+.text h1 {
+    font-size: 20px;
+}
+
+.img_container {
+    
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    
+}
+.img_container img {
+    width: 70%;
+    align-content: center;
+    
+}
+
+.img_container_02 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    
+}
+
+.img_container_02 img {
+    width: 70%;
+    align-content: center;
+    
+}
+.illustrators {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+   
+}
+.illustrators li {
+    margin: 50px;
+}
+
+
+
+
+.paragrafo {
+    margin-top: 10px;
+    margin-left: 40px;
+    text-align: center;
+   text-decoration: none;   
+
+}
+
+.text {
+   margin-top: 50px;
+    text-align: center;
+    font-style: italic;
+    margin-left: 40px;
+}
+.text h1 {
+    font-size: 20px;
+}
+
+.img_container {
+    
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    
+}
+.img_container img {
+    width: 70%;
+    align-content: center;
+    
+}
+
+.img_container_02 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    
+}
+
+.img_container_02 img {
+    width: 70%;
+    align-content: center;
+    
+}
+.illustrators {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+   
+}
+.illustrators li {
+    margin: 50px;
+}
+
+
+
